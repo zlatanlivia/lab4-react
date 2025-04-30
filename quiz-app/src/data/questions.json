@@ -1,0 +1,172 @@
+{
+    "tenis": {
+      "easy": [
+        {
+          "question": "Cine a câștigat cel mai mare număr de titluri de Grand Slam?",
+          "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+          "correct": "Roger Federer"
+        },
+        {
+          "question": "Ce sport se joacă pe un teren cu 4 linii și o plasă la mijloc?",
+          "options": ["Tenis", "Fotbal", "Basketball", "Hochei"],
+          "correct": "Tenis"
+        },
+        {
+          "question": "Care este termenul folosit pentru o minge de tenis care lovește fileul dar ajunge în terenul adversarului?",
+          "options": ["Ace", "Let", "Fault", "Double fault"],
+          "correct": "Let"
+        },
+        {
+          "question": "Cât durează, în medie, un set de tenis?",
+          "options": ["6 jocuri", "5 jocuri", "7 jocuri", "4 jocuri"],
+          "correct": "6 jocuri"
+        },
+        {
+          "question": "Cine a câștigat primul său titlu de Grand Slam în 2008?",
+          "options": ["Rafael Nadal", "Roger Federer", "Novak Djokovic", "Andy Murray"],
+          "correct": "Rafael Nadal"
+        }
+      ],
+      "medium": [
+        {
+          "question": "Cine a câștigat cele mai multe titluri la Wimbledon?",
+          "options": ["Roger Federer", "Pete Sampras", "Rafael Nadal", "Novak Djokovic"],
+          "correct": "Roger Federer"
+        },
+        {
+          "question": "Care este termenul pentru un serviciu care nu poate fi returnat?",
+          "options": ["Ace", "Fault", "Let", "Deuce"],
+          "correct": "Ace"
+        },
+        {
+          "question": "Care este valoarea unui joc de tenis, în cazul în care jucătorul are un avantaj de un punct?",
+          "options": ["Advanage", "Game point", "Set point", "Match point"],
+          "correct": "Advantage"
+        },
+        {
+          "question": "Care jucător a câștigat cele mai multe titluri la Australian Open?",
+          "options": ["Novak Djokovic", "Roger Federer", "Rafael Nadal", "Pete Sampras"],
+          "correct": "Novak Djokovic"
+        },
+        {
+          "question": "Ce jucător este cunoscut pentru stilul său de joc bazat pe lovituri de rever cu o singură mână?",
+          "options": ["Roger Federer", "Novak Djokovic", "Rafael Nadal", "Andy Murray"],
+          "correct": "Roger Federer"
+        }
+      ],
+      "hard": [
+        {
+          "question": "Cine a câștigat cel mai mult titluri de Grand Slam la masculin?",
+          "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+          "correct": "Novak Djokovic"
+        },
+        {
+          "question": "În ce an a fost introdus tiebreak-ul în finalele de la Wimbledon?",
+          "options": ["1971", "1980", "1995", "2000"],
+          "correct": "1971"
+        },
+        {
+          "question": "Care este denumirea oficială a loviturii de serviciu care este considerată un 'serviciu de sub'?",
+          "options": ["Underhand serve", "Topspin serve", "Flat serve", "Kick serve"],
+          "correct": "Underhand serve"
+        },
+        {
+          "question": "Care dintre acești jucători nu a câștigat un titlu la Roland Garros?",
+          "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+          "correct": "Roger Federer"
+        },
+        {
+          "question": "În ce an a câștigat Serena Williams primul său titlu la Wimbledon?",
+          "options": ["2002", "2004", "2006", "2008"],
+          "correct": "2002"
+        }
+      ]
+    },
+    "fotbal": {
+      "easy": [
+        {
+          "question": "Cine a câștigat ultimul Campionat Mondial de Fotbal?",
+          "options": ["Brazilia", "Franța", "Germania", "Argentina"],
+          "correct": "Franța"
+        },
+        {
+          "question": "Cine este considerat cel mai bun marcator din istoria fotbalului?",
+          "options": ["Cristiano Ronaldo", "Lionel Messi", "Pele", "Diego Maradona"],
+          "correct": "Cristiano Ronaldo"
+        },
+        {
+          "question": "Care echipă a câștigat Liga Campionilor UEFA în 2020?",
+          "options": ["Bayern Munchen", "Real Madrid", "Barcelona", "Liverpool"],
+          "correct": "Bayern Munchen"
+        },
+        {
+          "question": "Cine a câștigat Balonul de Aur în 2019?",
+          "options": ["Cristiano Ronaldo", "Lionel Messi", "Virgil van Dijk", "Mohamed Salah"],
+          "correct": "Lionel Messi"
+        },
+        {
+          "question": "Cine este cunoscut drept 'Regele fotbalului'?",
+          "options": ["Pele", "Maradona", "Ronaldo Nazário", "Zico"],
+          "correct": "Pele"
+        }
+      ],
+      "medium": [
+        {
+          "question": "Care este echipa cu cele mai multe titluri de campion în Premier League?",
+          "options": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+          "correct": "Manchester United"
+        },
+        {
+          "question": "Care este cel mai bun marcator al tuturor timpurilor în Liga Campionilor?",
+          "options": ["Cristiano Ronaldo", "Lionel Messi", "Raul", "Karim Benzema"],
+          "correct": "Cristiano Ronaldo"
+        },
+        {
+          "question": "Cine a câștigat Campionatul European de Fotbal în 2016?",
+          "options": ["Portugalia", "Franța", "Germania", "Spania"],
+          "correct": "Portugalia"
+        },
+        {
+          "question": "Cine a fost antrenorul echipei naționale a Germaniei în 2014?",
+          "options": ["Joachim Low", "Jürgen Klopp", "Ottmar Hitzfeld", "Carlo Ancelotti"],
+          "correct": "Joachim Low"
+        },
+        {
+          "question": "Ce echipă a câștigat Liga Campionilor în 2012?",
+          "options": ["Chelsea", "Bayern Munchen", "Barcelona", "Real Madrid"],
+          "correct": "Chelsea"
+        }
+      ],
+      "hard": [
+        {
+          "question": "Cine a fost căpitanul echipei naționale a Italiei în 2006, când au câștigat Cupa Mondială?",
+          "options": ["Fabio Cannavaro", "Gianluigi Buffon", "Paolo Maldini", "Alessandro Del Piero"],
+          "correct": "Fabio Cannavaro"
+        },
+        {
+          "question": "Care a fost scorul final în finala Ligii Campionilor 2005 între Liverpool și AC Milan?",
+          "options": ["3-2", "2-1", "1-0", "4-3"],
+          "correct": "3-2"
+        },
+        {
+          "question": "Cine a marcat golul câștigător în finala Campionatului Mondial din 1998?",
+          "options": ["Zinedine Zidane", "Didier Deschamps", "Emmanuel Petit", "Thierry Henry"],
+          "correct": "Zinedine Zidane"
+        },
+        {
+          "question": "Care este singurul jucător care a câștigat 5 trofee Ballon d'Or?",
+          "options": ["Cristiano Ronaldo", "Lionel Messi", "Michel Platini", "Johan Cruyff"],
+          "correct": "Cristiano Ronaldo"
+        },
+        {
+          "question": "Care echipă a câștigat primul său titlu în Premier League în 1992?",
+          "options": ["Manchester United", "Leeds United", "Arsenal", "Liverpool"],
+          "correct": "Manchester United"
+        }
+      ]
+    }
+  }
+  
+
+  
+  
